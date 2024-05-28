@@ -1,4 +1,4 @@
-<img src='https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif'>
+<img align="center" src='https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif'>
 
 <h1 align="center">Hi 👋, I'm Mubeen Mohammed</h1>
 <h3 align="center">Aspiring Software Engineer with Expertise in Full-Stack Development</h3>
@@ -16,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mubeen-mohammed-595786232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubeen mohammed" height="30" width="40" /></a>
-<a href="https://fb.com/mubeen mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mubeen mohammed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
