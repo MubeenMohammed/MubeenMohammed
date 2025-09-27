@@ -33,7 +33,7 @@ Outside of work, I like to stay active and balanced — you’ll often find me p
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%230db7ed.svg?style=flat&logo=aws&logoColor=white)
 
-### ⚙️ Tools/Testing/Data
+### ⚙️ Tools/Testing/Data:
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![Selenium](https://img.shields.io/badge/selenium-%2320232a.svg?style=flat&logo=selenium&logoColor=%2361DAFB)
