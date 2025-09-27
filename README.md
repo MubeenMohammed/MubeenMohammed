@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on AI Voice Assistant<br>🌱 I’m currently learning Docker, Kubernetes<br>💬 Ask me about Full Stack Development, AI Integration<br>📫 How to reach me mubeen.mohammed@mail.mcgill.ca<br>⚡ Fun fact: I'm a software engineering student who treats every bug like a mini boss fight. Fueled by coffee and a dash of midnight debugging, I turn each glitch into an epic victory dance!
+I’m **Mubeen Mohammed**, a Computer Science student at McGill University (graduating Dec 2026) with a passion for building scalable systems, AI-driven solutions, and user-focused applications. My experience spans developing automation workflows at McGill, building intelligent search solutions at Coveo, and co-founding a startup mobile app selected for the McGill Dobson Program. I enjoy exploring the intersection of software engineering, cloud technologies, and product innovation.  
+
+Outside of work, I like to stay active and balanced — you’ll often find me playing 🏸 squash, 🏋️ at the gym, or ♟️ enjoying a game of chess. I’m equally excited about tackling technical challenges as I am about pursuing personal growth, whether through fitness, strategy, or collaboration.  
+
 
 
 ## 🌐 Socials:
