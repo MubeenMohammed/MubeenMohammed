@@ -62,4 +62,4 @@ GitHub Actions (tests + deploy), analytics dash. Kept build time < 3m and uptime
 
 
  1. **[BoardGameHub (Academic Project)](https://boardgamehub.mubeenmohammed.tech/)**  
-  - Collaborated with a team of 7 students to build a full-stack app for boardgame players with Spring Boot, Vue.js, and PostgreSQL, implemented JUnit tests, containerized with Docker, and deployed on Render.
+   - Collaborated with a team of 7 students to build a full-stack app for boardgame players with Spring Boot, Vue.js, and PostgreSQL, implemented JUnit tests, containerized with Docker, and deployed on Render.
