@@ -11,7 +11,7 @@ Outside of work, I like to stay active and balanced — you’ll often find me p
 
 ### 💻 Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)![JavaScript/TypeScript](https://img.shields.io/badge/JavaScript/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)![JavaScript/TypeScript](https://img.shields.io/badge/javaScript/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%23F24E1E.svg?style=flat&logo=c&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=flat&logo=sql&logoColor=white) 
 ![NoSQL](https://img.shields.io/badge/NoSQL-%234ea94b.svg?style=flat&logo=nosql&logoColor=white)
