@@ -41,7 +41,7 @@ Outside of work, I like to stay active and balanced — you’ll often find me p
 ![JUnit](https://img.shields.io/badge/JUnit-%23F24E1E.svg?style=flat&logo=junit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23000.svg?style=flat&logo=pandas&logoColor=white) 
 ![Numpy](https://img.shields.io/badge/Numpy-%2300599C.svg?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=flat&logo=c&logoColor=white)
 
 
 ---
