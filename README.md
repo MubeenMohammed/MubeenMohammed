@@ -9,7 +9,7 @@ Outside of work, I like to stay active and balanced — you’ll often find me p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mubeen12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mubeen.mohammed@mail.mcgill.ca) [![Portfolio](https://img.shields.io/badge/Portfolio-a08021?logo=Wagtail&logoColor=white)](https://mubeenmohammed.tech) 
 
 
-### 💻 Programming Languages:
+## Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)![JavaScript/TypeScript](https://img.shields.io/badge/javaScript/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%23F24E1E.svg?style=flat&logo=c&logoColor=white) 
@@ -17,7 +17,7 @@ Outside of work, I like to stay active and balanced — you’ll often find me p
 ![NoSQL](https://img.shields.io/badge/NoSQL-%234ea94b.svg?style=flat&logo=nosql&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%2300599C.svg?style=flat&logo=dart&logoColor=white)
 
-### 🧩 Frameworks/Platforms:
+## Frameworks/Platforms:
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
@@ -33,7 +33,7 @@ Outside of work, I like to stay active and balanced — you’ll often find me p
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%230db7ed.svg?style=flat&logo=aws&logoColor=white)
 
-### ⚙️ Tools/Testing/Data:
+## Tools/Testing/Data:
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![Selenium](https://img.shields.io/badge/selenium-%2320232a.svg?style=flat&logo=selenium&logoColor=%2361DAFB)
@@ -61,5 +61,5 @@ assistance and seamless interaction.
 GitHub Actions (tests + deploy), analytics dash. Kept build time < 3m and uptime > 99.9% during term.
 
 
- 1. **[BoardGameHub (Academic Project)](https://boardgamehub.mubeenmohammed.tech/)**  
+3. **[BoardGameHub (Academic Project)](https://boardgamehub.mubeenmohammed.tech/)**  
    - Collaborated with a team of 7 students to build a full-stack app for boardgame players with Spring Boot, Vue.js, and PostgreSQL, implemented JUnit tests, containerized with Docker, and deployed on Render.
