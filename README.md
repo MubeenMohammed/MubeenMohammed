@@ -17,7 +17,7 @@ Outside of work, I like to stay active and balanced — you’ll often find me p
 ![NoSQL](https://img.shields.io/badge/NoSQL-%2300599C.svg?style=flat&logo=nosql&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%2300599C.svg?style=flat&logo=dart&logoColor=white)
 
-# 🧩 Frameworks/Platforms:
+## 🧩 Frameworks/Platforms:
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) 
@@ -33,7 +33,7 @@ Outside of work, I like to stay active and balanced — you’ll often find me p
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%230db7ed.svg?style=flat&logo=aws&logoColor=white)
 
-# ⚙️ Tools/Testing/Data
+## ⚙️ Tools/Testing/Data
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![Selenium](https://img.shields.io/badge/selenium-%2320232a.svg?style=flat&logo=selenium&logoColor=%2361DAFB)
@@ -44,7 +44,5 @@ Outside of work, I like to stay active and balanced — you’ll often find me p
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=flat&logo=c&logoColor=white)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=MubeenMohammed&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
