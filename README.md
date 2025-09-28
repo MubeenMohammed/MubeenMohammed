@@ -56,7 +56,7 @@ per-subject encryption. Won Best Use of AI among 800+ participants and 180+ proj
 assistance and seamless interaction.
 
 
-2. **[COMP250 Website](https://github.com/KrishnaChaitanya20/Docker_Homelab)**  
+2. **[COMP250 Website](https://comp250.com)**  
    - Developed and maintained a React-based course site serving 400+ students/semester; implemented CI/CD with
 GitHub Actions (tests + deploy), analytics dash. Kept build time < 3m and uptime > 99.9% during term.
 
