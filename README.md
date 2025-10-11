@@ -42,24 +42,3 @@ Outside of work, I like to stay active and balanced — you’ll often find me p
 ![Pandas](https://img.shields.io/badge/pandas-%23000.svg?style=flat&logo=pandas&logoColor=white) 
 ![Numpy](https://img.shields.io/badge/Numpy-%2300599C.svg?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=flat&logo=c&logoColor=white)
-
-
-
-## Top Projects
-
-Here are some of my notable repositories:
-
-1. **[Remember Through Me (ConuHacks Project)](https://github.com/ayush27316/rtMe)**  
-   - Built an AI facial-recognition prototype using FaceNet + OpenCV; designed a secure memory store in MongoDB with
-per-subject encryption. Won Best Use of AI among 800+ participants and 180+ projects.  
-   - Developed real-time voice-to-voice AI communication with Twilio and OpenAI GPT, enabling dynamic memory
-assistance and seamless interaction.
-
-
-2. **[COMP250 Website](https://comp250.com)**  
-   - Developed and maintained a React-based course site serving 400+ students/semester; implemented CI/CD with
-GitHub Actions (tests + deploy), analytics dash. Kept build time < 3m and uptime > 99.9% during term.
-
-
-3. **[BoardGameHub (Academic Project)](https://boardgamehub.mubeenmohammed.tech/)**  
-   - Collaborated with a team of 7 students to build a full-stack app for boardgame players with Spring Boot, Vue.js, and PostgreSQL, implemented JUnit tests, containerized with Docker, and deployed on Render.
