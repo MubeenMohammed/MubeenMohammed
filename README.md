@@ -42,3 +42,6 @@ Outside of work, I like to stay active and balanced — you’ll often find me p
 ![Pandas](https://img.shields.io/badge/pandas-%23000.svg?style=flat&logo=pandas&logoColor=white) 
 ![Numpy](https://img.shields.io/badge/Numpy-%2300599C.svg?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=flat&logo=c&logoColor=white)
+
+
+😽 If you pray hard enough, you can turn yourself into a cat person. 😽
