@@ -42,6 +42,3 @@ Outside of work, I like to stay active and balanced — you’ll often find me p
 ![Pandas](https://img.shields.io/badge/pandas-%23000.svg?style=flat&logo=pandas&logoColor=white) 
 ![Numpy](https://img.shields.io/badge/Numpy-%2300599C.svg?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=flat&logo=c&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=MubeenMohammed&theme=dark&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MubeenMohammed&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
