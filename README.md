@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m **Mubeen Mohammed**, a Computer Science student at McGill University (graduating Dec 2026) with a passion for building scalable systems, AI-driven solutions, and user-focused applications. My experience spans developing automation workflows at McGill, building intelligent search solutions at Coveo, and co-founding a startup mobile app selected for the McGill Dobson Program. I enjoy exploring the intersection of software engineering, cloud technologies, and product innovation.  
 
-Outside of work, I like to stay active and balanced — you’ll often find me playing 🏸 squash, 🏋️ at the gym, or ♟️ enjoying a game of chess. I’m equally excited about tackling technical challenges as I am about pursuing personal growth, whether through fitness, strategy, or collaboration.  
+Outside of work, I like to stay active and balanced. you’ll often find me playing 🏸 squash, 🏋️ at the gym, or ♟️ enjoying a game of chess. I’m equally excited about tackling technical challenges as I am about pursuing personal growth, whether through fitness, strategy, or collaboration.  
 
 
 
